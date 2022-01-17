@@ -4,8 +4,6 @@ import java.io.printer;
 import java.io.collection; 
 import java.io.scanner;
 import java.io.inputprinter;
-import java.io.inputmachine;
-import java.io.outputmachine;
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  
